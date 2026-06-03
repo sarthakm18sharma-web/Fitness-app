@@ -1,0 +1,7 @@
+rollno ,name ,class ,marks
+1,anuj,XII,89
+2,akshat,XII,88
+3,nikunj,XII,99
+4,sarthak,XII,56
+
+5,manya,XII,100
